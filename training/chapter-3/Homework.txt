@@ -1,0 +1,24 @@
+Using comments
+
+HW1:
+Write a program with the following
+1. single line comments in main method
+2. Write multiline comments in main method
+3. Write java doc comments for method and class
+
+
+
+HW2:
+Create a class with following variables:
+1. Define constant for pi.
+2. Define a method "add" with 2 parameters
+3. Define method variables 
+4. Try defining variables as per variable naming conventions
+
+
+HW3:
+Define a variable with each primitive data type.
+byte, short, int, long, float, double, boolean, char
+
+Assign value for all the variables. Assign min and max value for all the variables.
+

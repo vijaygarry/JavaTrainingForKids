@@ -1,0 +1,20 @@
+HW1:
+Write a program to print the following:
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+
+HW2:
+Write a program to print the following:
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+

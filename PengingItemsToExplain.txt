@@ -1,0 +1,38 @@
+Things to cover later:
+
+What is JVM and JRE
+
+What are important environment variables
+	path
+	classpath
+	JAVA_HOME
+	JRE_HOME
+
+Writing class in notepad
+Compile and run from command prompt
+
+---------------------------
+Class name conventions:
+	Start with Capital letter
+	Class name should match with file name
+	Other same as variable naming convention.
+
+
+---------------------------
+Class Structure
+Sample class
+	Package
+	Class
+	Method
+	Variable
+	Statement
+	Expression
+
+
+
+---------------------------
+Java -> Compile to class file
+Byte code
+Write once and run on any machine e.g. Windows/Mac/Linux
+
+
