@@ -23,7 +23,7 @@ byte, short, int, long, float, double, boolean, char
 Assign value for all the variables. Assign min and max value for all the variables.
 
 
-HW4:
+HW4 (Arithmetic Operation):
 Create a program with the following:
 1. Take 2 number input from user and print sub of 2 numbers
 2. Take 2 number input from user and print difference of 2 numbers
@@ -33,4 +33,13 @@ Create a program with the following:
 5. Take 2 number input from user and print multiplication of 2 numbers
 6. Take 3 number input from user and print value of num1 + num2 * num3 and verify the result.
 7. Take 3 number input from user and add first 2 number and multiple the sum with third number. Print the result.
+
+
+HW5 (Unary Operation):
+Create a program with the following:
+1. Define a variables for positive integer and long number. Use unary operation (+)
+2. Define a variables for negative integer and long number. Use unary operation (-)
+3. Take 1 number input from user. Increment the number by one using unary operator and print the result.
+4. Take 1 number input from user. Decrement the number by one using unary operator and print the result.
+5. Define a boolean variable. Invert the boolean value and print the value.
 
