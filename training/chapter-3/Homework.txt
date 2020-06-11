@@ -22,3 +22,15 @@ byte, short, int, long, float, double, boolean, char
 
 Assign value for all the variables. Assign min and max value for all the variables.
 
+
+HW4:
+Create a program with the following:
+1. Take 2 number input from user and print sub of 2 numbers
+2. Take 2 number input from user and print difference of 2 numbers
+3. Take 2 number input from user and print result of num1 / num2.
+	Try entering 0 for second number
+4. Take 2 number input from user and print reminder of num1 / num2.
+5. Take 2 number input from user and print multiplication of 2 numbers
+6. Take 3 number input from user and print value of num1 + num2 * num3 and verify the result.
+7. Take 3 number input from user and add first 2 number and multiple the sum with third number. Print the result.
+
