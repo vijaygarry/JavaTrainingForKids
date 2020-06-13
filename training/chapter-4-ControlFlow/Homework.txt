@@ -1,0 +1,121 @@
+Homework1
+---------------------
+1. Take integer input from user and print if number is greater than 100
+2. Take integer input from user and print if number is even of odd
+3. Take 4 integer input from user and print maximum number
+4. Take 4 integer input from user and print minimum number
+
+
+Homework2:
+----------------------
+EMI Calculator:
+Equated Montly Installment
+EMI = (L*I)* {(1+I)^N / [(1+I)^N]-1}
+Where
+L = loan amount
+I = interest Rate(rate per annum divided by 12)
+^ = to the power of
+N = Loan Period in months
+
+
+Homework3:
+------------------------
+Write a program to calculate grade base on %
+if > 90 = A+
+80 to 90 = A
+70 to 80 = B+
+60 to 70 = B
+50 to 60 = C
+Less than 50 = Fail
+
+
+Homework4:
+------------------------
+Marksheet:
+1. Get the following input from user:
+	Marks in Maths, English, Latin and science (Marks should be between 1 to 100)
+
+Print the following on screen
+
+Subject    	|   Marks   | 	Grade 	|
+Maths		|	97		| 	A+		|
+English		|	80		| 	B+		|
+Latin		|	78		| 	B+		|
+science 	|	91		| 	A+		|
+
+Overall 	|  346/400	| 			|
+Overall % 	|	86.5 %	|	A 		|
+	
+Where
+if > 90 = A+
+80 to 90 = A
+70 to 80 = B+
+60 to 70 = B
+50 to 60 = C
+Less than 50 = Fail
+
+
+
+Homework5:
+------------------------
+Calender Homework:
+
+getMonthInString (int aMonthNumber) – Returns month string
+E.g. 6 -> June
+
+getMonthNumber (String aMonthName) – Returns month number
+E.g. June - > 6
+
+getMonthDays (int aMonthNumber, int aYear) – Returns number of days for given month and year.
+E.g. 2 , 2020 -> 29
+
+
+
+Homework6:
+------------------------
+Pizza Shop:
+Define the following constant in java program:
+CHEESE_PIZZA_COST: $10
+VEGGIE_PIZZA_COST: $15
+MEAT_LOVER_PIZZA_COST: $17
+SATATE_TAX_PERCENTAGE: 6
+
+Take the following user input:
+Number of cheese pizza: 
+Number of veggi pizza: 
+Number of meat pizza: 
+If user doesn';'t not any of the above pizza, user can enter 0
+
+Print the following after:
+
+Todis Pizza Store
+----------------------------------------------------------------------------------------
+Item							Quantity			Cost
+----------------------------------------------------------------------------------------
+Cheese pizza 						2				Calculated cost
+Veggi pizza 						1				Calculated cost
+Meat pizza 							1				Calculated cost
+
+Sales 												Calculates sales tax on all pizza
+----------------------------------------------------------------------------------------
+Total Due: 											Total amount due
+
+
+Note: Do not print pizza with 0 quantity.
+
+
+
+Homework7:
+------------------------
+Create a temperature conversion utility:
+Show the following menu to user:
+
+Key 				Description
+------------------------------------------
+FC 					Fahrenheit -> Celsius
+CF					Celsius -> Fahrenheit
+
+Base on option selected, read user input in Fahrenheit or Celsius.
+
+Convert the temperature from one unit to another and print the result.
+
