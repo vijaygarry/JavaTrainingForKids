@@ -207,5 +207,38 @@ Person can drive the car only if person has valid driving license
 Ask user's age and ask if user has valid driving license.
 Print if user allowes to drive the car.
 
- 
+
+
+Homework19:
+------------------------
+Math game:
+Program should randonmly select one of the operation (+, -, *, /, or %).
+Now generate 2 random number. num1, num2. 
+Now show the question user like below:
+	 num1
+(op) num2
+--------------
+
+Capture the result in array. 
+
+Now continue with next question until 10th question.
+
+At the end, print the score. 
+
+Problem					User Answer		Right Answer 		Result		
+----------------------------------------------------------------------
+1) num1 (op) num2 	= UserAnswer		Actual Answer 		Right/Wrong
+2) num1 (op) num2 	= UserAnswer		Actual Answer 		Right/Wrong
+.
+.
+10) num1 (op) num2 	= UserAnswer		Actual Answer 		Right/Wrong
+----------------------------------------------------------------------
+Total														5/10
+
+
+
+
+
+
+
 
