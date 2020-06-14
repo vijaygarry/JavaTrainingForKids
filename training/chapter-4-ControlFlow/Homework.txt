@@ -119,3 +119,93 @@ Base on option selected, read user input in Fahrenheit or Celsius.
 
 Convert the temperature from one unit to another and print the result.
 
+Hint: C = (F – 32) * 5/9
+
+
+Homework8:
+------------------------
+Print number 1 to 100 using for loop
+
+Homework9:
+------------------------
+Print number 1 to 100 using while loop
+
+Homework10:
+------------------------
+Print number 1 to 100 using do while
+
+
+Homework11:
+------------------------
+Create a array of 10 numbers. Print the max number in array.
+
+Homework12:
+------------------------
+Take 4 input numbers from user. Assign the values in array. Print the minimum number in array.
+
+
+Homework13:
+------------------------
+Print multiplication table:
+Take number from user and print the multiplication table for number.
+Assume user enter 6, result should be like this:
+
+6 X 1 = 6
+6 X 2 = 12
+6 X 3 = 18
+.
+.
+6 X 10 = 60
+
+
+
+
+Homework14:
+------------------------
+Print the following using for loop
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+
+Homework15:
+------------------------
+Print the following using for loop
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+
+Homework16:
+------------------------
+Print the following using for loop
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+
+
+Homework17:
+------------------------
+Create a array of 10 numbers. 
+Sorting – Write a method, which takes array of int and return array with sorted value (use buble sort).
+
+
+Homework18:
+------------------------
+Person allow to drive the car when person if 18=.
+Person can drive the car only if person has valid driving license
+Ask user's age and ask if user has valid driving license.
+Print if user allowes to drive the car.
+
+ 
+
