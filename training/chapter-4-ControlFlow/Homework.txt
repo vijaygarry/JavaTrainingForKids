@@ -202,7 +202,7 @@ Sorting – Write a method, which takes array of int and return array with sorte
 
 Homework18:
 ------------------------
-Person allow to drive the car when person if 18=.
+Person allow to drive the car when person is 18+.
 Person can drive the car only if person has valid driving license
 Ask user's age and ask if user has valid driving license.
 Print if user allowes to drive the car.
@@ -215,8 +215,8 @@ Math game:
 Program should randonmly select one of the operation (+, -, *, /, or %).
 Now generate 2 random number. num1, num2. 
 Now show the question user like below:
-	 num1
-(op) num2
+	num1
+(op)	num2
 --------------
 
 Capture the result in array. 
@@ -238,6 +238,56 @@ Total														5/10
 
 
 
+
+Homework20:
+------------------------
+Write a program to print first 10 numbers in Fibonacci Sequence
+Fibonacci Sequence is 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
+The next number is found by adding up the two numbers before it.
+
+
+
+Homework21:
+------------------------
+Print all prime numbers falls between 25 to 2000
+
+
+Himework22:
+------------------------
+Take 2 integer input from user.
+Now find the Greatest Common Divisor (GCD).
+GCD of two numbers is the largest positive integer number that divides both the numbers without leaving any remainder
+
+
+Himework22:
+------------------------
+Take 1 integer input from user.
+Print all factors of a number.
+E.g. 
+Factor of 12: 1, 2, 3, 4, 6 and 12 
+Factor of 9: 1, 3, 9 (Note: 3 shown only once.)
+
+
+Himework23:
+------------------------
+Define a array of 10 numbers. 
+Print the mean (Average), Median, Mode, min, max for this array.
+
+Mode
+In statistics, the mode is the value in a data set that has the highest number of recurrences. It is possible for a data set to be multimodal, meaning that it has more than one mode. For example:
+
+2,10,21,23,23,38,38
+Both 23 and 38 appear twice each, making them both a mode for the data set above.
+
+
+Median
+The statistical concept of the median is a value that divides a data sample, population, or probability distribution into two halves. Finding the median essentially involves finding the value in a data sample that has a physical location between the rest of the numbers. Note that when calculating the median of a finite list of numbers, the order of the data samples is important. Conventionally, the values are listed in ascending order, but there is no real reason that listing the values in descending order would provide different results. In the case where the total number of values in a data sample is odd, the median is simply the number in the middle of the list of all values. When the data sample contains an even number of values, the median is the mean of the two middle values
+
+
+Range
+The range of a data set in statistics is the difference between the largest and the smallest values. While range does have different meanings within different areas of statistics and mathematics.
+2,10,21,23,23,38,38
+38 - 2 = 36
 
 
 
