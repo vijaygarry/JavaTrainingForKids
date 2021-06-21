@@ -1,4 +1,4 @@
-HW1:
+HW2_1:
 Write a program to print the following:
 
 *
@@ -8,7 +8,7 @@ Write a program to print the following:
 * * * * *
 
 
-HW2:
+HW2_2:
 Write a program to print the following:
 
     *
@@ -18,3 +18,17 @@ Write a program to print the following:
 * * * * *
 
 
+HW2_3:
+Write a program to print the following:
+
+        *
+      * *
+    * * *
+  * * * *
+* * * * *
+
+
+HW2_4:
+Write a program to print the following:
+
+Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable. From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!
