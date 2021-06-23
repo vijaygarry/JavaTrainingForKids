@@ -1,0 +1,25 @@
+HW5_1:
+------------------------
+Define a array of integer and print value at index 3
+
+
+HW5_2:
+------------------------
+Define a array students of type String and print name of 2nd student
+
+
+HW5_3:
+------------------------
+Create a temperature conversion utility:
+Show the following menu to user:
+
+Key 				Description
+------------------------------------------
+FC 					Fahrenheit -> Celsius
+CF					Celsius -> Fahrenheit
+
+Base on option selected, read user input in Fahrenheit or Celsius.
+
+Convert the temperature from one unit to another and print the result.
+
+Hint: C = (F – 32) * 5/9
