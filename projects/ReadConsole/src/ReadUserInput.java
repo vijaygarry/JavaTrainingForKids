@@ -1,13 +1,12 @@
 import java.util.Scanner;
 
-public class ReadExample {
-	public static void main(String[] args) {
-		
+public class ReadUserInput {
+
+	public static void main(String[] args) {		
 		
 		String name = readUserStringInput("Enter your name:");
 		String lastName = readUserStringInput("Enter your last name:");
 		System.out.print( "Your full name: " + name + " " + lastName + " :)");
-		
 		
 		int num1 = readUserIntInput("Enter num1:");
 		int num2 = readUserIntInput("Enter num2:");
@@ -23,7 +22,7 @@ public class ReadExample {
 	}
 	
 	
-	public static int readUserIntInput (String aInputMsg) {
+	public static int readUserIntegerInput (String aInputMsg) {
 		System.out.print( aInputMsg + " ");
 		Scanner scanner = new Scanner(System.in);
 		return scanner.nextInt();

@@ -1,0 +1,120 @@
+HW4_1
+---------------------
+1. Take integer input from user and print if number is greater than 100
+2. Take integer input from user and print if number is even of odd
+3. Take 4 integer input from user and print maximum number
+4. Take 4 integer input from user and print minimum number
+
+
+HW4_2:
+----------------------
+EMI Calculator:
+Equated Montly Installment
+EMI = (L*I)* {(1+I)^N / [(1+I)^N]-1}
+Where
+L = loan amount
+I = interest Rate(rate per annum divided by 12)
+^ = to the power of
+N = Loan Period in months
+
+
+HW4_3:
+------------------------
+Write a program to calculate grade base on %
+if > 90 = A+
+80 to 90 = A
+70 to 80 = B+
+60 to 70 = B
+50 to 60 = C
+Less than 50 = Fail
+
+
+HW4_4:
+------------------------
+Marksheet:
+1. Get the following input from user:
+	Marks in Maths, English, Latin and science (Marks should be between 1 to 100)
+
+Print the following on screen
+
+Student Name : Vijay
+-------------------------------------
+Subject         | Marks   | Grade   |
+-------------------------------------
+Maths           | 97      |   A+    |
+English         | 80      |   B+    |
+Latin           | 78      |   B+    |
+science         | 91      |   A+    |
+-------------------------------------
+Overall         | 346/400           |
+Overall %       | 86.5 %  | A       |
+-------------------------------------
+	
+Where
+if > 90 = A+
+80 to 90 = A
+70 to 80 = B+
+60 to 70 = B
+50 to 60 = C
+Less than 50 = Fail
+
+
+
+HW4_5:
+------------------------
+Calender Homework:
+Ask user to enter month number and print the month name
+getMonthInString (int aMonthNumber) – Returns month string
+E.g. 6 -> June
+
+HW4_6:
+------------------------
+Calender Homework:
+Ask user to enter month name and print the month number
+getMonthNumber (String aMonthName) – Returns month number
+E.g. June -> 6
+
+
+HW4_7:
+------------------------
+Calender Homework:
+Ask user to enter month number and year and print the number of days in that month.
+getMonthDays (int aMonthNumber, int aYear) – Returns number of days for given month and year.
+E.g. 2 , 2020 -> 29
+
+
+
+HW4_8:
+------------------------
+Pizza Shop:
+Define the following constant in java program:
+CHEESE_PIZZA_COST: $10
+VEGGIE_PIZZA_COST: $15
+MEAT_LOVER_PIZZA_COST: $17
+SATATE_TAX_PERCENTAGE: 6
+
+Take the following user input:
+Number of cheese pizza: 
+Number of veggi pizza: 
+Number of meat pizza: 
+If user doesn';'t not any of the above pizza, user can enter 0
+
+Print the following after:
+
+Todis Pizza Store
+-------------------------------------------------------
+Item          | Quantity  | Price per Item  | Total   |
+-------------------------------------------------------
+Cheese pizza  | 2         | 12.00           | 24.00   |
+Veggi pizza   | 1         | 15.00           | 15.00   |
+Meat pizza    | 3         | 20.00           | 60.00   |
+              |           |                 |         |
+              |           |                 |         |
+Sales Tax     |           | 6%              | 7.20    |
+              |           |                 |         |
+-------------------------------------------------------
+Total Due                                   | 127.20  |
+-------------------------------------------------------
+
+Challange work: Do not print pizza with 0 quantity.
+

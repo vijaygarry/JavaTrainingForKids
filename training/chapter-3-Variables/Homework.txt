@@ -1,6 +1,6 @@
 Using comments
 
-HW1:
+HW3_1:
 Write a program with the following
 1. single line comments in main method
 2. Write multiline comments in main method
@@ -8,38 +8,43 @@ Write a program with the following
 
 
 
-HW2:
+HW3_2:
 Create a class with following variables:
 1. Define constant for pi.
-2. Define a method "add" with 2 parameters
-3. Define method variables 
-4. Try defining variables as per variable naming conventions
+2. Try defining variables as per variable naming conventions
 
 
-HW3:
+
+HW3_3:
 Define a variable with each primitive data type.
 byte, short, int, long, float, double, boolean, char
 
 Assign value for all the variables. Assign min and max value for all the variables.
+Print all variables.
 
 
-HW4 (Arithmetic Operation):
+HW3_4 (Arithmetic Operation):
 Create a program with the following:
-1. Take 2 number input from user and print sub of 2 numbers
-2. Take 2 number input from user and print difference of 2 numbers
-3. Take 2 number input from user and print result of num1 / num2.
-	Try entering 0 for second number
-4. Take 2 number input from user and print reminder of num1 / num2.
-5. Take 2 number input from user and print multiplication of 2 numbers
-6. Take 3 number input from user and print value of num1 + num2 * num3 and verify the result.
-7. Take 3 number input from user and add first 2 number and multiple the sum with third number. Print the result.
+1. Define 2 integer variables. Add these 2 variables and assign it to third variable. Print the value of all 3 variables.
+2. Define 2 integer variables. Subtract these 2 variables and assign it to third variable. Print the value of all 3 variables.
+3. Define 2 integer variables. Multiply these 2 variables and assign it to third variable. Print the value of all 3 variables.
+4. Define 2 integer variables. Divide these 2 variables and assign it to third variable. Print the value of all 3 variables.
+	Try with number devided by 0
+5. Define 2 integer variables. Print the remender of var1/var2
+6. Define 3 integer variables and print sum of these 3 numbers 
+7. Define 3 integer variables and add first 2 number and multiple with third number and print the result.
 
 
-HW5 (Unary Operation):
+HW3_5 (Unary Operation):
 Create a program with the following:
-1. Define a variables for positive integer and long number. Use unary operation (+)
-2. Define a variables for negative integer and long number. Use unary operation (-)
-3. Take 1 number input from user. Increment the number by one using unary operator and print the result.
-4. Take 1 number input from user. Decrement the number by one using unary operator and print the result.
-5. Define a boolean variable. Invert the boolean value and print the value.
+1. Define a variables and increment the variable value using unary operation (+)
+2. Define a variables and decrease the variable value using unary operation (-)
+3. Define a boolean variable. Invert the boolean value and print the value.
+
+
+HW3_6 (Equality Operation):
+Create a program with the following:
+1. Define a 2 variables and print if first number is greater than second
+2. Define a 2 variables and print if first number is less than second
+3. Define a 2 variables and print if they are equal
 
