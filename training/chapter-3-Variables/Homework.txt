@@ -48,3 +48,9 @@ Create a program with the following:
 2. Define a 2 variables and print if first number is less than second
 3. Define a 2 variables and print if they are equal
 
+
+HW3_7 Swap value for 2 variables:
+Define 2 variables and swap the values and print both variable values.
+
+HW3_8 Swap value for 2 variables without using extra variable:
+Define 2 integer variables and swap the values without using 3rd variable and print both variable values.

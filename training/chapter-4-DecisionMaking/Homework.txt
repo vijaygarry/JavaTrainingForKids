@@ -17,6 +17,11 @@ I = interest Rate(rate per annum divided by 12)
 ^ = to the power of
 N = Loan Period in months
 
+rate = I /(12*100) 
+double emi= (L*rate*Math.pow(1+rate,N))/(Math.pow(1+rate,N)-1);
+
+      
+
 
 HW4_3:
 ------------------------
