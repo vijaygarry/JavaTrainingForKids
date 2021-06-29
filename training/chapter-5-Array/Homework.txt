@@ -1,6 +1,6 @@
 HW5_1:
 ------------------------
-Define a array of integer and print value at index 3
+Define a array of 5 integers and print value at index 3
 
 
 HW5_2:
