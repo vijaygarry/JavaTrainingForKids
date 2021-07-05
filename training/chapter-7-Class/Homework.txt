@@ -1,0 +1,102 @@
+HW7_1:
+------------------------
+Create a class Car with following attributes:
+make, model, Year, newOld, price, milage, mpg
+write a method to print car details.
+Note: Add getter and setter for all attribute
+
+Create a CarApp class, define 3 cars. 
+Print details of all cars
+
+
+HW7_2:
+------------------------
+Write a method to check if given year is leap year
+Note: If year is century and not divided by 400, then its not a leap year.
+
+
+HW7_3:
+------------------------
+Take integer as input to convert. Create a method which takes input as integer and print value in word format. Max number user can enter is 100 
+Sample result:
+20 -> Twenty
+72 -> Seventy two
+80 -> Eighty
+
+
+HW7_4
+------------------------
+3. Write a program to print the user input symbol in following format
+*
+* * 
+* * * 
+* * * * 
+* * * * *
+Ask user to input character and print the above using user specified character.
+
+
+
+HW7_5
+------------------------
+Find the word count in sentence. Ignore multiple white space
+E.g. If sentence is "The quick brown fox jumps over the lazy dog"
+Number of words is 9
+Hint: char[] = stringVariable.toCharArray()
+This method return true if specified char is white space: Character.isWhitespace(ch);
+
+
+HW7_6
+------------------------
+Find letter count in paragraph ignoring white space.
+Note: Space, Tab, new line is consider as white space.
+E.g. sentence is "The quick brown fox jumps over the lazy dog"
+Number of letters is 35
+
+
+HW7_7
+------------------------
+Find if specified word is Palindrome (Same both backword and forwards) 
+E.g. mom, kayak, racecar, rotator
+
+
+HW7_8
+------------------------
+Write a maintain methdo to print all prime numbers falls between 25 to 2000
+Note: Create a method to check if number is
+public static boolean isPrime(int aNumber){
+....
+}
+
+HW7_9:
+------------------------
+Create a class by name Lamp
+Define methods:
+switchOn();
+switchOff();
+isLampOn();
+
+
+HW7_10
+------------------------
+Create a class TicTacToe.
+Define datatype to hold value for 9 cells.
+Define a method to print the tic tac toe 
+e.g. 
+
+	1	|	2	|	3
+		|		|
+	X	|	X	|
+---------------------------
+	4	|	5	|	6
+		|		|
+	O	|		|
+---------------------------
+	7	|	8	|	9
+		|		|
+		|	O	|
+
+
+Print cell number from 1 to 9.
+Print X or O if cell has X or O.
+
+Add method to check if game is over.
