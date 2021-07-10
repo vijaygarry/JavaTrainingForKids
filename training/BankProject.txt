@@ -1,0 +1,79 @@
+Homework:
+Create a new project with name "BankProject"
+
+Design Bank Application:
+
+Create a class Account as follows:
+
+---- Start of Account class --------
+import java.util.Date;
+
+public class Account {
+ 
+  //Define following fields in account class.
+  private long accountNumber;
+  private String name;
+  private float balance;
+  private char accountType;
+
+  private AccountActivity[] activities = new AccountActivity[25];
+
+ 
+  //TODO: Implement following methods
+  setAccountNumber()
+  getAccountNumber()
+  setName()
+  getName()
+  setAccountType()
+  getAccountType()
+ 
+ 
+  deposit(float aAmount) {
+  AccountActivity activity = new AccountActivity();
+  activity.setDate(new Date());
+  activity.setDescription("Cash Deposit");
+  add Amount, Running Balance and action to activity
+  Add activity to activities array
+  add amount to balance
+  }
+
+  getBalance()
+
+  withdraw() {
+  Add account activity similar like deposit
+  debit balance
+  }
+  printActivities() {
+  Print as follows:
+  Name: <Name>
+  Account Number: <Account Number>
+  ------------------------------------------------------------------------
+  Date | Description | Action | Amount | Running Balance |
+  ------------------------------------------------------------------------
+  ......Activity details here.........
+  ------------------------------------------------------------------------
+  }
+
+}
+
+
+---- Start of AccountActivity class --------
+import java.util.Date;
+public class AccountActivity {
+  private Date txnDate;
+  private float amount;
+  private String action; //Credit/Debit
+  private String description;
+  private float runningBalance;
+
+  /TODO:
+  Add getter and setter for all
+ }
+
+
+---- Start of Bank App class --------
+Create a BankApp class with 5 accounts.
+Add name, type, number to all 5 accounts.
+Perform few debits/credits to all account.
+Print statement for accounts.
+
