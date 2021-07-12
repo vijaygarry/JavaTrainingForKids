@@ -1,0 +1,17 @@
+HW8_1
+------------------------
+Write a maintain methdo to print all prime numbers falls between 25 to 2000
+Note: Create a method to check if number is
+public static boolean isPrime(int aNumber){
+....
+}
+
+HW8_2:
+------------------------
+Create a class by name Lamp
+Define methods:
+switchOn();
+switchOff();
+isLampOn();
+
+
