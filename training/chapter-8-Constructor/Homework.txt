@@ -15,3 +15,89 @@ switchOff();
 isLampOn();
 
 
+HW8_3
+------------------------
+Define a planet class with following methods:
+
+getOrbitalPeriod()
+getDistanceFromSun()
+getSurfaceArea()
+getLengthOfDay()
+getRadius()
+hasRings()
+
+Define one object for each planet in solar system.
+Print the planet details as follows:
+---------------------------------------------------------------------------------------------------------
+Name	| Orbital Period | Distance From Sun | Surface Area | Length Of Day | Radius | has Rings | 
+---------------------------------------------------------------------------------------------------------
+Details here....
+---------------------------------------------------------------------------------------------------------
+
+
+
+HW8_4
+------------------------
+Create a class by name Book with following methods:
+getTitle()
+getNumberOfPages()
+getAuthor()
+getYear()
+getCost()
+
+
+Create 5 object of your favorite book and print the details.
+
+
+
+
+
+HW8_5
+------------------------
+Create a Contact class with following methods
+getFirstName()
+getLastName()
+getEmailId()
+getCellPhoneNumber()
+getHomePhoneNumber()
+getWorkPhoneNumber()
+getAddress()
+getNotes()
+
+Create a class with name AddressBook with main method
+Create array of 10 contact.
+Add 10 contact to array
+
+Print all contact details in table format.
+
+
+
+
+HW8_6
+------------------------
+Create a Pet class with following fields
+petType like cat or dog
+petName
+breed
+age
+color
+
+Methods:
+barks
+getName
+
+
+
+
+HW8_7
+------------------------
+Define a class by name Employee
+String name;
+int age;
+String designation;
+double salary;
+
+
+Define a another class Company with main method. 
+Create 10 employee in array.
+Now print the employee details with max salary.
