@@ -1,0 +1,42 @@
+Tic Tac Toe Game
+------------------------
+Create a class TicTacToeGame.
+Define datatype to hold value for 9 cells.
+Define a method to print the tic tac toe 
+e.g. 
+
+Display tic-tac-toe with cell number as below
+
+	1	|	2	|	3
+		|		|
+		|		|
+---------------------------
+	4	|	5	|	6
+		|		|
+		|		|
+---------------------------
+	7	|	8	|	9
+		|		|
+		|		|
+
+
+
+
+Assign X to first player and O to second player.
+Ask player to select cell player want to play.
+Continue the game until one of the player wins or game is draw.
+After each turn, display the game status like below:
+	1	|	2	|	3
+		|		|
+	X	|	X	|
+---------------------------
+	4	|	5	|	6
+		|		|
+	O	|		|
+---------------------------
+	7	|	8	|	9
+		|		|
+		|	O	|
+		
+Print the final game details when game is over.
+
