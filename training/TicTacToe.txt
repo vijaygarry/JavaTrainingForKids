@@ -40,3 +40,36 @@ After each turn, display the game status like below:
 		
 Print the final game details when game is over.
 
+
+
+Class design:
+package com.neasaa.tictactoe;
+
+public class TicTacToeGame {
+	
+	public boolean playTurn (int aCellNumber, char aSymbol) {
+		// TODO:
+	}
+	
+	//This should return game status:
+	// W - Won
+	// D - Draw
+	// I - Incomplete
+	public char isGameOver() {
+		//TODO:
+	}
+	
+	
+	public void printGame() {
+		printRow(1);
+		System.out.println("\t\t-------------------------------");		
+		printRow(2);
+		System.out.println("\t\t-------------------------------");
+		printRow(3);
+		System.out.println();
+	}
+	
+	private void printRow (int aRowNum) {
+		//Logic to print row.
+	}
+}
