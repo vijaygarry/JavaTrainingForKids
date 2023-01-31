@@ -126,7 +126,6 @@ The range of a data set in statistics is the difference between the largest and 
 
 
 
-
 HW6_22
 ------------------------
 Build tic tac toe game
@@ -135,19 +134,7 @@ Assign character
 X to player 1 
 O to player 2
 
-Display tic-tac-toe with cell number as below
 
-	1	|	2	|	3
-		|		|
-		|		|
----------------------------
-	4	|	5	|	6
-		|		|
-		|		|
----------------------------
-	7	|	8	|	9
-		|		|
-		|		|
 
 Ask player one to select cell number:
 If cell number already selected, ask player to select another cell.
